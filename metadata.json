@@ -1,0 +1,5 @@
+{
+  "name": "career guidance",
+  "description": "An AI-powered career guidance system for students, utilizing ML concepts (SVM, Decision Trees) to map academic profiles (MPC, BiPC, CEC, etc.) to optimal career paths.",
+  "requestFramePermissions": []
+}
